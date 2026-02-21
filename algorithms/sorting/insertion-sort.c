@@ -27,7 +27,7 @@ int main(){
     printf("Array:\n");
     printArray(arr,n);
     insertionSort(arr,n);
-    printf("\nSorted rray:\n");
+    printf("\nSorted array:\n");
     printArray(arr,n);
 
     return 1;
